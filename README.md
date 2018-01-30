@@ -1,2 +1,2 @@
 # A Android 7.0 Material Design Demo
-## see ..\screenshot\Material Design实学习笔记.pdf for more information.
+## see ..\screenshot\Material Design Study Note.pdf for more information.
