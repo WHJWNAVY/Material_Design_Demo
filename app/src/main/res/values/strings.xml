@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NavigationView</string>
+    <string name="drawer_toggle_open">DrawerToggleOpen</string>
+    <string name="drawer_toggle_close">DrawerToggleClose</string>
+    <string name="menu_call_title">Call</string>
+    <string name="menu_friends_title">Friends</string>
+    <string name="menu_address_title">Address</string>
+    <string name="menu_photo_title">Photo</string>
+    <string name="header_email">whjwnavy@163.com</string>
+    <string name="header_user_name">WHJWNAVY</string>
+    <dimen name="textSizePrimary">15sp</dimen>
+</resources>
